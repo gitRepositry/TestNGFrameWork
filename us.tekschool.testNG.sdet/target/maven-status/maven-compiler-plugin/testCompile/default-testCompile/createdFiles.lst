@@ -1,0 +1,8 @@
+classPractice\Web.class
+Tests\TestNGConcepts.class
+Tests\TestNGAssetionConcepts.class
+Tests\CreateAcount.class
+classPractice\API.class
+classPractice\Mobile.class
+Tests\SmokeTest.class
+Tests\HotelLogin.class

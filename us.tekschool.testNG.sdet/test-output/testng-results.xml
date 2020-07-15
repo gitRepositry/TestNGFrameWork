@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18250" started-at="2020-07-15T00:18:37Z" finished-at="2020-07-15T00:18:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18250" started-at="2020-07-15T00:18:37Z" finished-at="2020-07-15T00:18:56Z">
+      <class name="Tests.HotelLogin">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Tests.HotelLogin@610694f1]" name="beforeMethod" is-config="true" duration-ms="10598" started-at="2020-07-15T00:18:37Z" finished-at="2020-07-15T00:18:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithParameter()[pri:1, instance:Tests.HotelLogin@610694f1]" name="loginWithParameter" duration-ms="7602" started-at="2020-07-15T00:18:48Z" finished-at="2020-07-15T00:18:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithParameter -->
+      </class> <!-- Tests.HotelLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
