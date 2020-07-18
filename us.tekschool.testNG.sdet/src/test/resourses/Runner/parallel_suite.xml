@@ -7,15 +7,17 @@
 <listener class-name="utilities.TestNGListeners"></listener>
 
 </listeners>
-  
+   <parameter name= "userName" value= "student@test.com"/>
+   <parameter name= "password" value= "welcome1"/>
+
 	<test name="Login to Hotel Page">
 	<groups>
 	<run>
-	
+	<include name="smokeTest"></include>
 	</run>
 	</groups>
 		<classes>
-			
+			<class name="Tests.HotelLogin" />
  	</classes>
 	</test>
 </suite>

@@ -320,3 +320,43 @@
 2020-07-14 20:18:56,057 - Logger_file -INFO - Test was passed successfully
 2020-07-14 20:18:56,058 - Logger_file -INFO - method name: loginWithParameter
 2020-07-14 20:18:56,074 - Logger_file -INFO - End of Execution
+2020-07-16 20:04:25,480 - Logger_file -INFO - Start of Execution
+2020-07-16 20:04:37,309 - Logger_file -INFO - Browser opened successfully
+2020-07-16 20:04:37,310 - Logger_file -INFO - Test Execution Started
+2020-07-16 20:04:38,126 - Logger_file -INFO - user clicked on Sign in
+2020-07-16 20:04:38,269 - Logger_file -INFO - user entered email address
+2020-07-16 20:04:38,375 - Logger_file -INFO - user entered password
+2020-07-16 20:04:39,015 - Logger_file -INFO - user clicked on sign in button
+2020-07-16 20:04:44,881 - Logger_file -INFO - Test was passed successfully
+2020-07-16 20:04:44,881 - Logger_file -INFO - method name: loginWithParameter
+2020-07-16 20:04:44,889 - Logger_file -INFO - End of Execution
+2020-07-16 20:09:18,360 - Logger_file -INFO - Start of Execution
+2020-07-16 20:09:18,366 - Logger_file -INFO - Start of Execution
+2020-07-16 20:09:28,353 - Logger_file -INFO - Browser opened successfully
+2020-07-16 20:09:28,354 - Logger_file -INFO - Test Execution Started
+2020-07-16 20:09:28,376 - Logger_file -INFO - Test Execution Started
+2020-07-16 20:09:29,213 - Logger_file -INFO - User clicked on Sign in
+2020-07-16 20:09:29,424 - Logger_file -INFO - User entered: mike90@gmail.com
+2020-07-16 20:09:29,525 - Logger_file -INFO - User clicked on Create Account
+2020-07-16 20:10:14,596 - Logger_file -INFO - Test was failed
+2020-07-16 20:10:14,596 - Logger_file -INFO - method name: createAccount
+2020-07-16 20:10:15,387 - Logger_file -INFO - Test was failed
+2020-07-16 20:10:15,388 - Logger_file -INFO - method name: createAccount
+2020-07-16 20:10:16,785 - Logger_file -INFO - Browser closed
+2020-07-16 20:10:16,787 - Logger_file -INFO - End of Execution
+2020-07-16 20:10:17,078 - Logger_file -INFO - End of Execution
+2020-07-16 20:10:42,897 - Logger_file -INFO - Start of Execution
+2020-07-16 20:10:42,903 - Logger_file -INFO - Start of Execution
+2020-07-16 20:10:52,458 - Logger_file -INFO - Browser opened successfully
+2020-07-16 20:10:52,459 - Logger_file -INFO - Test Execution Started
+2020-07-16 20:10:52,475 - Logger_file -INFO - Test Execution Started
+2020-07-16 20:10:53,319 - Logger_file -INFO - user clicked on Sign in
+2020-07-16 20:10:53,455 - Logger_file -INFO - user entered email address
+2020-07-16 20:10:53,537 - Logger_file -INFO - user entered password
+2020-07-16 20:10:54,188 - Logger_file -INFO - user clicked on sign in button
+2020-07-16 20:11:00,118 - Logger_file -INFO - Test was passed successfully
+2020-07-16 20:11:00,118 - Logger_file -INFO - method name: loginWithParameter
+2020-07-16 20:11:00,126 - Logger_file -INFO - Test was passed successfully
+2020-07-16 20:11:00,126 - Logger_file -INFO - method name: loginWithParameter
+2020-07-16 20:11:00,129 - Logger_file -INFO - End of Execution
+2020-07-16 20:11:00,908 - Logger_file -INFO - End of Execution
