@@ -23,7 +23,6 @@ public class HotelLogin extends Base {
 		logger.info("Browser opened successfully");
 	}
 	@Test (enabled = false)// it will scape this testcase. @Ignore also can be used.
-	@Ignore
 	public void loginToHotelPage() {
 		hotelpageObj = new HotelLoginPageObj();
 		hotelpageObj.clickonSignIn();
